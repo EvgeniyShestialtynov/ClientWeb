@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+.client-web{
+    max-width: 742px;
+    margin: auto;
+    font-family: Arial;
+    color: #676862;
+    background-color: #FEEED5;
+    padding: 9px 13px;
+}
+.client-web-header{
+    font-size: 28px;
+    line-height: 31px;
+    margin-bottom: 15px;
+}
+.client-web-subtitle{
+    font-size: 16px;
+    margin: 13px 0px 0px 1px;
+}
+.client-web-subtitle-blue{
+    color: #498A9E;
+    font-weight: 700;
+}
+.price-without-discont{
+    text-decoration: line-through;
+}
+.client-web-description{
+    margin: 9px 0px 0px 1px;
+    padding-bottom: 1px;
+    font-size: 15px;
+    text-indent: 15px;
+    line-height: 22px;
+}
