@@ -4,7 +4,7 @@
 .client-web{
     max-width: 742px;
     margin: auto;
-    font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
     color: #676862;
     background-color: #FEEED5;
     padding: 9px 13px;
@@ -16,7 +16,7 @@
 }
 .client-web-subtitle{
     font-size: 16px;
-    margin: 13px 0px 0px 1px;
+    margin: 13px 0 0 1px;
 }
 .client-web-subtitle-blue{
     color: #498A9E;
@@ -26,7 +26,8 @@
     text-decoration: line-through;
 }
 .client-web-description{
-    margin: 9px 0px 0px 1px;
+    text-align: justify;
+    margin: 9px 0 0 1px;
     padding-bottom: 1px;
     font-size: 15px;
     text-indent: 15px;
