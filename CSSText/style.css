@@ -1,31 +1,31 @@
 * {
     box-sizing: border-box;
 }
-.client-web{
+.client-web {
     max-width: 742px;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
     color: #676862;
-    background-color: #FEEED5;
+    background-color: #feeed5;
     padding: 9px 13px;
 }
-.client-web-header{
+.client-web-header {
     font-size: 28px;
     line-height: 31px;
     margin-bottom: 15px;
 }
-.client-web-subtitle{
+.client-web-subtitle {
     font-size: 16px;
     margin: 13px 0 0 1px;
 }
-.client-web-subtitle-blue{
-    color: #498A9E;
+.client-web-subtitle-blue {
+    color: #498a9e;
     font-weight: 700;
 }
-.price-without-discont{
+.price-without-discont {
     text-decoration: line-through;
 }
-.client-web-description{
+.client-web-description {
     text-align: justify;
     margin: 9px 0 0 1px;
     padding-bottom: 1px;
